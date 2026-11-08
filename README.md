@@ -23,7 +23,6 @@ The portfolio is intentionally minimal and typography-focused. It includes:
 - Vite
 - JavaScript
 - CSS
-- Inline SVG icons
 
 The current technology list presented on the site includes:
 
