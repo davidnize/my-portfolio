@@ -114,4 +114,4 @@ npm run preview
 - LinkedIn: <https://www.linkedin.com/in/david-nizeyimana/>
 - X: <https://x.com/_david_nize>
 - Instagram: <https://www.instagram.com/david_nize>
-- Email: <mailto:nizeyimanadavid61@gmail.com>
+- Email: <nizeyimanadavid61@gmail.com>
